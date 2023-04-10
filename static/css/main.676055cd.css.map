@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.676055cd.css","mappings":"AAAA,UACI,4BACJ,CAEA,YACI,oBACJ","sources":["App.css"],"sourcesContent":[".complete {\r\n    text-decoration: line-through;\r\n}\r\n\r\n.incomplete {\r\n    text-decoration: none;\r\n}"],"names":[],"sourceRoot":""}
